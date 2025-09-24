@@ -70,7 +70,10 @@ Customer Revenue by Cohort (Adjusted for time in market) - First Purchase Date
 
 Investigate Monthly Revenue & Customer Trends (3 Month Rolling Average)
 
-<img src="../Resources/images/5.2_monthly_revenue_customers_3mo.png" alt="Monthly Revenue & CustomerTrends" width="50%">  
+<p align="center">
+  <img src="Images/5.2_monthly_revenue_customers_3mo.png" alt="Monthly Revenue & Customer Trends" width="60%">
+</p>
+
 
 📊 **Key Findings:**  
 - Customer revenue is declining, older cohorts (2016-2018) spent ~$2,800+, while 2024 cohort spending dropped to ~$1,970.  
@@ -91,7 +94,10 @@ Investigate Monthly Revenue & Customer Trends (3 Month Rolling Average)
 
 **📈 Visualization:**
 
-<img src="../Resources/images/7.3_customer_churn_cohort_year.png" alt="Customer Churn by Cohort Year" style="width: 50%; height: auto;">
+<p align="center">
+  <img src="Images/7.3_customer_churn_cohort_year.png" alt="Customer Churn by Cohort Year" width="60%">
+</p>
+
 
 📊 **Key Findings:**  
 - Cohort churn stabilizes at ~90% after 2-3 years, indicating a predictable long-term retention pattern.  
