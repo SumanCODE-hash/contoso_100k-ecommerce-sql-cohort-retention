@@ -63,7 +63,10 @@ Tooling: PostgreSQL for querying, DBeaver for execution, and visualization suppo
 
 Customer Revenue by Cohort (Adjusted for time in market) - First Purchase Date 
 
-<img src="../Resources/images/5.2_customer_revenue_normalized.png" alt="Customer Revenue Normalized" width="50%">
+<p align="center">
+  <img src="Images/5.2_customer_revenue_normalized.png" alt="Customer Revenue Normalized" width="60%">
+</p>
+
 
 Investigate Monthly Revenue & Customer Trends (3 Month Rolling Average)
 
