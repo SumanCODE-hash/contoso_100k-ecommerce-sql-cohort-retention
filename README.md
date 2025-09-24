@@ -1,6 +1,11 @@
 ## Overview
 Analysis of customer behavior, retention, and lifetime value for an e-commerce company to improve customer retention and maximize revenue.
-
+## Skills Demonstrated
+SQL for Analytics: Complex joins, CTEs, subqueries, and window functions to clean, aggregate, and analyze sales data.
+Customer Analytics: Segmentation, cohort analysis, LTV (lifetime value), and retention/churn modeling.
+Business Problem Solving: Translating raw sales data into insights that guide marketing, retention, and revenue strategies.
+Data Visualization & Storytelling: Presenting results with clear charts and actionable business insights.
+Tooling: PostgreSQL for querying, DBeaver for execution, and visualization support with ChatGPT.
 ## Business Questions
 1. **Customer Segmentation:** Who are our most valuable customers?
 2. **Cohort Analysis:** How do different customer groups generate revenue?
