@@ -110,7 +110,14 @@ Investigate Monthly Revenue & Customer Trends (3 Month Rolling Average)
    - Focus on targeted win-back campaigns for high-value churned customers
    - Implement proactive intervention system for at-risk customers before they lapse
 
-## Technical Details
-- **Database:** PostgreSQL
-- **Analysis Tools:** PostgreSQL, Dbeaver
-- **Visualization:** ChatGPT
+## Real-World Application
+
+This project mirrors challenges faced by e-commerce and retail businesses worldwide:
+
+Customer Value Optimization → Identifying high-value customers to design VIP loyalty programs.
+
+Revenue Stability → Using cohort analysis to spot declining trends and apply successful strategies from strong cohorts.
+
+Retention & Churn Prevention → Building early engagement and win-back campaigns to reduce customer loss.
+
+By solving these business questions with SQL, the project demonstrates how data analysts can drive revenue growth, improve retention, and inform strategic decision-making in a real-world business environment.
