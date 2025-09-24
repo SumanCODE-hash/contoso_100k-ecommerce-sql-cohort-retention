@@ -35,7 +35,7 @@ Tooling: PostgreSQL for querying, DBeaver for execution, and visualization suppo
 
 **📈 Visualization:**
 
-<img src="../Resources/images/6.3_customer_segementation.png" alt="Customer Segmentation" width="50%">
+![Customer Segmentation](../Resources/images/6.3_customer_segementation.png)
 
 📊 **Key Findings:**
 - High-value segment (25% of customers) drives 66% of revenue ($135.4M)
