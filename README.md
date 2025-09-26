@@ -14,7 +14,7 @@ Tooling: PostgreSQL for querying, DBeaver for execution, and visualization suppo
 
 ### Data Source
 This analysis uses the **Contoso 100k datasets** from Microsoft, which are fictional but designed to mimic real-world e-commerce business scenarios. The datasets include:
-- **Customer data**: Demographics, registration dates, and contact information for 100,000+ customers
+- **Customer data**: Demographics, registration dates, and contact information for customers
 - **Transaction data**: Detailed purchase history with order dates, product details, quantities, and revenue
 - **Product catalog**: Item descriptions, categories, and pricing information
 
