@@ -32,7 +32,7 @@ Before analysis, the following validation steps were performed:
 - **Analysis timeframe**: Focus on transactions from 2016-2024, assuming complete data coverage
 - **Currency**: All revenue figures in USD
 - **Customer identification**: Unique customer_id represents individual customers
-- **Churn definition**: Customers with no purchases in the last 12 months are considered at risk
+- **Churn definition**: Customers with no purchases in the last 6 months are considered at risk (As fictional datasets doesn't contain recent data we use MAX(orderdate))
 - **Cohort stability**: Customer cohorts defined by first purchase year remain consistent
 
 ### Key Calculations and Definitions
