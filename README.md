@@ -208,3 +208,5 @@ Revenue Stability → Using cohort analysis to spot declining trends and apply s
 Retention & Churn Prevention → Building early engagement and win-back campaigns to reduce customer loss.
 
 By solving these business questions with SQL, the project demonstrates how data analysts can drive revenue growth, improve retention, and inform strategic decision-making in a real-world business environment.
+
+
