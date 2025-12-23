@@ -1,4 +1,5 @@
 ## Overview  
+
 Analysis of customer behavior, retention, and lifetime value for an e-commerce company to improve customer retention and maximize revenue.
 ## Skills Demonstrated
 SQL for Analytics: Complex joins, CTEs, subqueries, and window functions to clean, aggregate, and analyze sales data.
